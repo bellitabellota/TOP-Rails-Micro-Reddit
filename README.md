@@ -1,6 +1,8 @@
-# TOP instructions for Micro-Reddit
+#  Micro-Reddit
 
-## This practice served to learn basic validations and associations
+This practice served to learn basic validations and associations and thus its focus was solely on the backend.
+
+## TOP assignment instructions
 
 ### Get started
 
